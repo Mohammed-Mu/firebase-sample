@@ -8,12 +8,12 @@ import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/11.0.
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyC0TVSlIPDPudBp5Xi0Ub6YlpDD8hKA4Qo",
+  authDomain: "login-data-c4a0b.firebaseapp.com",
+  projectId: "login-data-c4a0b",
+  storageBucket: "login-data-c4a0b.appspot.com",
+  messagingSenderId: "797670813837",
+  appId: "1:797670813837:web:5c8e3d00c23527d7e3f2c4"
 };
 
 // Initialize Firebase
